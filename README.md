@@ -12,6 +12,6 @@ Tutorial:
 4. Move your hand back and forth from the camera to change the pitch of the sound.  
 
 To uninstall:  
-Open a terminal console or command line and type: ```adb uninstall com.carrotcorp.glassemin```
+Open a terminal console or command line and type: ```adb uninstall com.carrotcorp.glass.glassemin```
 
 Licensed under the GNU Affero General Public License v3. See LICENSE file for more information.
