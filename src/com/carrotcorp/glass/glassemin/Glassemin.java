@@ -101,13 +101,6 @@ public class Glassemin extends Activity implements SensorEventListener {
 	}
 
 	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.glassemin, menu);
-		return true;
-	}
-
-	@Override
 	public void onSensorChanged(SensorEvent event) {
 		// Get the distance value and log it:
 		float distance = event.values[0];
