@@ -14,4 +14,4 @@ Tutorial:
 To uninstall:  
 Open a terminal console or command line and type: ```adb uninstall com.carrotcorp.glass.glassemin```
 
-Licensed under the CarrotCorp Open Source License 1.0.1. See LICENSE file for more information.
+GPL v3 license. See LICENSE file for more information.
